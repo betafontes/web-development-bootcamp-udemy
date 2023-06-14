@@ -24,6 +24,7 @@ Módulos referente aos meus estudos durante o andamento do curso!!
 - Introduction to Html
 - Intermediate Html
 - Multi-Page Websites
+- Introduction to CSS
 
 <br>
 
