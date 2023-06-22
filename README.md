@@ -26,6 +26,8 @@ Módulos referente aos meus estudos durante o andamento do curso!!
 - Multi-Page Websites
 - Introduction to CSS
 - CSS Properties
+- Intermediate CSS
+
 
 <br>
 
